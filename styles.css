@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  font-family: "Harmattan", sans-serif;
+  font-size: 24px;
+}
+
+#it {
+  height: 50%;
+}
+
+#fir {
+  padding: 3rem 6rem 3rem 6rem;
+}
+
+#fir h1 {
+  font-size: 4rem;
+  font-weight: bolder;
+}
