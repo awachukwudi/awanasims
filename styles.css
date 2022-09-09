@@ -12,11 +12,32 @@ body {
   height: 50%;
 }
 
-#fir {
-  padding: 3rem 6rem 3rem 6rem;
+#first {
+  padding: 5rem;
+  background-color: rgb(224, 233, 238);
 }
 
-#fir h1 {
-  font-size: 4rem;
-  font-weight: bolder;
+#second {
+  padding: 5rem;
+  background-color: rgb(236, 227, 227);
+}
+
+#third {
+  padding-top: 5rem;
+  padding-left: 5rem;
+  padding-bottom: 3rem;
+  padding-left: 5rem;
+  background-color: rgb(236, 227, 227);
+}
+
+#press {
+  margin-top: 6rem;
+}
+
+section #buhari-image {
+  padding-left: 6rem;
+}
+
+#press-text {
+  padding: auto;
 }
