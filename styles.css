@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: white;
   width: 100vw;
   height: 100vh;
   box-sizing: border-box;
@@ -40,4 +41,34 @@ section #buhari-image {
 
 #press-text {
   padding: auto;
+}
+
+#press-text h3 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+#abt-image {
+  margin-top: 12rem;
+}
+
+#abt {
+  padding-right: 6rem;
+}
+
+#abt button {
+  padding: 0.75rem 4rem;
+  font-size: 1.5rem;
+}
+
+#abts {
+  padding-left: 8rem;
+}
+
+#about-image {
+  justify-content: space-between;
+}
+
+#about2-text {
+  padding-right: 11rem;
 }
