@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: white;
-  width: 100vw;
+  /* width: 100vw; */
   height: 100vh;
   box-sizing: border-box;
   font-family: "Harmattan", sans-serif;
